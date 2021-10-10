@@ -1,4 +1,4 @@
 
-const ajs = require('@viktorka1347/ajs2');
+const ajs = require('@viktorka1347/ajs');
 
 console.log(ajs.info());
