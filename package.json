@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/viktorka1347/clone#readme",
   "dependencies": {
-    "@viktorka1347/AJS2": "^1.0.0"
+    "@viktorka1347/ajs2": "^1.0.0"
   }
 }
